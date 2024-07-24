@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi earthling 👋 <a href="https://insomnia-jacob.github.io/me/">I'm Insomnia!<a></h1>
+<h1 align="center">Hi earthling 👋 <a href="https://insomnia-jacob.github.io/me/" target="_blank">I'm Insomnia!<a></h1>
 
 ###
 
