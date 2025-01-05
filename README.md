@@ -71,7 +71,7 @@
   <a href="https://www.instagram.com/insomnia.py/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=34495E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/insomniaDEV" target="_blank">
+  <a href="https://t.me/insomnia0x00" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
   <a href="https://x.com/insomniadev_" target="_blank">
